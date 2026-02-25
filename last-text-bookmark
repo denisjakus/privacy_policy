@@ -1,0 +1,59 @@
+Privacy Policy for Last Text Bookmark
+Effective date: 2026-02-25
+
+Last Text Bookmark (“the extension”) is a browser extension that lets users bookmark selected text on webpages and return to that exact reading position later.
+
+1) Summary
+
+The extension stores bookmark data locally in the user’s browser.
+The extension does not send user data to external servers.
+The extension does not sell, share, or transfer user data to third parties.
+The extension does not use analytics, advertising trackers, or remote code.
+
+2) Data the extension processes
+
+To provide bookmarking functionality, the extension processes and stores:
+
+Page URL (used to map a bookmark to a page)
+User-selected text snippet
+Position/context metadata needed to relocate the text later (for example text offset and nearby context)
+Timestamp of bookmark creation/update
+
+3) Where data is stored
+
+All bookmark data is stored locally on the user’s device using browser extension local storage. Data remains under the user’s browser profile unless the user clears it.
+
+4) Data sharing and transfer
+
+No user data is sold.
+No user data is transferred to third parties.
+No user data is used for purposes unrelated to the extension’s single purpose.
+No user data is used or transferred for creditworthiness or lending decisions.
+
+5) Remote code and network use
+The extension does not load or execute remote code. All code is packaged with the extension. The extension does not make external network requests for data collection.
+
+6) Permissions used
+
+storage: to save bookmarks locally so they persist across reloads/restarts.
+activeTab: to run user-initiated actions from the popup on the current tab.
+Host access to webpages: required so bookmarking works on pages users visit.
+
+7) User control
+Users can:
+
+Replace a bookmark by selecting new text on the same page.
+Clear a bookmark from the popup.
+Clear all bookmarks from the popup.
+Remove the extension at any time.
+
+8) Children’s privacy
+The extension is not directed to children and does not knowingly collect personal information from children.
+
+9) Changes to this policy
+This policy may be updated from time to time. The latest version will be posted at the same Privacy Policy URL.
+
+10) Contact
+Developer: Denis Jakus
+
+Contact: developer_chrome@icloud.com
