@@ -1,0 +1,40 @@
+# Privacy Policy — Crypto Stop Sizer
+
+**Last updated:** 2026-07-17
+
+Crypto Stop Sizer (“the Extension”) is a Chrome extension that helps traders calculate position size from a fixed risk amount and the stop-loss percentage shown on TradingView Long/Short Position drawings.
+
+## Data we collect
+
+**We do not collect, transmit, or sell personal data.**
+
+The Extension runs locally in your browser. It does not create user accounts, does not phone home to our servers, and does not use analytics SDKs.
+
+## Data stored on your device
+
+The Extension may store the following in Chrome’s local/sync extension storage on your device:
+
+- Your preferred fixed risk amount (e.g. USDC)
+- The on-screen position of the draggable badge
+
+This data never leaves your browser unless you use Chrome Sync for extensions (controlled by your Google account settings).
+
+## Data read from TradingView
+
+While you use TradingView, the Extension reads on-page chart information needed for sizing — specifically the **Stop** percentage from a selected Long/Short Position drawing — in order to compute and display position size. That information is processed locally and is not sent to us.
+
+## Permissions
+
+- **storage** — save risk preference and badge position
+- **activeTab / scripting** — interact with the active TradingView tab to read Stop % and show results
+- **Host access to TradingView** — required so the Extension can run on TradingView chart pages only
+
+## Third parties
+
+The Extension does not integrate advertising networks, analytics providers, or external APIs operated by us.
+
+TradingView is a third-party website you visit separately; their own privacy policy applies to your use of TradingView.
+
+## Contact
+
+For privacy questions about this Extension, open an issue in the project repository or contact the publisher email listed on the Chrome Web Store listing.
